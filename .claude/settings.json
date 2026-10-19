@@ -1,0 +1,8 @@
+{
+  "enabledPlugins": {
+    "sdd-engineering@sdd": true,
+    "engineering-paved-path@sdd": true,
+    "research-tools@sdd": true,
+    "architecture-review@sdd": true
+  }
+}
